@@ -1,0 +1,6 @@
+*.swp
+weaved/
+classes/
+build/
+nbproject/private/
+nbproject/genfiles.properties
